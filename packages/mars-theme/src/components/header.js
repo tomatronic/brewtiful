@@ -8,7 +8,7 @@ const Header = ({ state }) => {
     <>
       <Container>
         <StyledLink link="/">
-          <Title>{state.frontity.title}</Title>
+          <Title>Brewtiful</Title>
         </StyledLink>
         <Description>{state.frontity.description}</Description>
         <MobileMenu />
